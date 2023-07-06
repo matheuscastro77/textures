@@ -2,7 +2,7 @@
 
 ## DEPLOY 
 
-https://textures-hsvamtu78-matheuscastro77.vercel.app/
+[Textures](https://textures-hsvamtu78-matheuscastro77.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
